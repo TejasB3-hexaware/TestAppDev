@@ -19,7 +19,7 @@ name: cd-springms
     types:
       - completed
 env:
-  REPOSITORY_NAME: TestAppDev
+  REPOSITORY_NAME: springms
 jobs:
   set-environment:
     runs-on: ubuntu-latest
