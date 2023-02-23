@@ -11,7 +11,7 @@ env:
   DOCKER_BUILD_CONTEXT: springmsthree
   DOCKER_PUBLISH_CONTEXT: springmsthree
   CONTAINER_NAME: springmsthree
-  REPOSITORY_NAME: springmsthree
+  REPOSITORY_NAME: springms
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
